@@ -1,0 +1,13 @@
+AmazonEC2ContainerRegistryReadOnly
+AmazonEKS_CNI_Policy
+AmazonEKSWorkerNodePolicy
+aws eks --region us-east-1 update-kubeconfig --name cluster-name
+
+
+
+aws eks --region us-east-1 update-kubeconfig --name k8-cluster
+
+
+
+cute ctl
+clusture 
